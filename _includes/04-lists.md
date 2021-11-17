@@ -1,3 +1,3 @@
-*coding
-*electrical
-*emojis
+* coding
+* electrical
+* emojis
